@@ -17,6 +17,7 @@
   - [You will stand for The Salter (!) and Little Perykos (!!)](https://docs.google.com/spreadsheets/d/1AgHCAVoGYDpNJSLidF0mgSa0wo4MKHOhYpIDLprZtb8/edit?gid=816149282#gid=816149282).
 - Your character will remain seated when reeling in a ! or !! bite that isn't a big fish.
   - [You will stand for Tornado Shark (!!)](https://docs.google.com/spreadsheets/d/1AgHCAVoGYDpNJSLidF0mgSa0wo4MKHOhYpIDLprZtb8/edit?gid=816149282#gid=816149282).
+  - You will also stand for catches in spectral currents.
 - All big fish require a Tome of Folklore to be caught.
   - ARR zones do not have folklore books.
   - Several big fish in Heavensward do not require their local tomes: Captain Nemo, Flarefish, Hailfinder, Fat Purse, The Ewer King and Augmented High Allagan Helmet.
