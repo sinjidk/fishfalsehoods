@@ -19,7 +19,7 @@
   - [You will stand for Tornado Shark (!!)](https://docs.google.com/spreadsheets/d/1AgHCAVoGYDpNJSLidF0mgSa0wo4MKHOhYpIDLprZtb8/edit?gid=816149282#gid=816149282).
 - All big fish require a Tome of Folklore to be caught.
   - ARR zones do not have folklore books.
-  - Several big fish in Heavensward do not require their local tomes, such as Captain Nemo.
+  - Several big fish in Heavensward do not require their local tomes: Captain Nemo, Flarefish, Hailfinder, Fat Purse, The Ewer King and Augmented High Allagan Helmet.
 - Each fishing spot can only be found on one map.
   - The Derelicts can be cast into from both The Buttress and The Canopy of Eulmore.
   - Northwest Bronze Lake and Northeast Bronze Lake used to be one unified fishing hole [but were seperated in 3.51](https://na.finalfantasyxiv.com/lodestone/topics/detail/12ed915838dbdc22fe36871a2604f9b1d97b848d) after [catching King of the Spring from Outer La Noscea would crash the server](https://na.finalfantasyxiv.com/lodestone/news/detail/43d7d7c526e1ebac15e4ebff1d58558c5c79e374).
@@ -33,3 +33,18 @@
   - [Extensive testing has never been able to detect this](https://docs.google.com/spreadsheets/d/13-b5ZvCuDod2CDk3Q0zvHEo4-x_nBtxQXpDkKbZPLEE/edit?gid=1106872707#gid=1106872707).
 - Using Chum reduces the chance of big fish biting.
   - This is not true.
+- Big fish that bite exclusively from bait can only bite from 1 bait and also Versatile Lure.
+  - Big fish from ARR can also bite from Freshwater or Saltwater Boilie in addition to Versatile Lure.
+  - Slime King bites from Crayfish Ball and Bloodworm.
+  - Jacques the Snipper bites from Goby Ball and Rat Tail.
+  - Faerie Queen bites from Spinner and Spinnerbait.
+  - Sabertooth Cod bites from Goby Ball and Rat Tail. 
+  - Moggle Mogpom bites from Brute Leech, Bladed Steel Jig, and Goblin Jig.
+- Big fish that are mooched can only have one potential catch path/Mooch.
+  - Octomammoth can bite from a Merlthor Goby or Harbor Herring mooch.
+  - Gigantshark can bite from a Merlthor Goby, Harbor Herring or Ogre Barracuda mooch.
+  - Ndendecki can bite from a Silverfish or Assassin Betta mooch.
+  - Pirate's Bane can bite from a Merlthor Goby or Wahoo mooch.
+  - Junkmonger can bite from a Merlthor Goby or Wahoo mooch.
+  - Nepto Dragon can bite from a Merlthor Goby mooch or from Nothern Krill bait.
+  - Merciless can bite from an Ice Faerie mooch or rom Brute Leech bait.
