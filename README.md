@@ -33,7 +33,7 @@
 - The likelihood of Gulls or Dolphins appearing on an ocean fishing boat can be influenced by player actions.
   - [Extensive testing has never been able to detect this](https://docs.google.com/spreadsheets/d/13-b5ZvCuDod2CDk3Q0zvHEo4-x_nBtxQXpDkKbZPLEE/edit?gid=1106872707#gid=1106872707).
 - Using Chum reduces the chance of big fish biting.
-  - This is not true.
+  - This is not true, Chum only affects bite *times* not bite *rates*.
 - <details>
   <summary> Big fish that bite exclusively from bait can only bite from 1 bait and also Versatile Lure.</summary>
   
