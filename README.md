@@ -55,3 +55,9 @@
   - Nepto Dragon can bite from a Merlthor Goby mooch or from Nothern Krill bait.
   - Merciless can bite from an Ice Faerie mooch or from Brute Leech bait.
   </details>
+- The preferred hookset of a fish can be determined by if large specimens of the species are longer or shorter than 40 ilms.
+  - The Soul of the Martyr is a small-jawed fish while being strictly over 200 ilms long.
+  - Sovereign Shadow is a large-jawed fish while being strictly less than 16 ilms long.
+- The maximum length of a fish species is 2.5x its minimum length.
+  - [For more than 100 ARR fish (and a few HW), the ratio is 1.5x](https://discord.com/channels/327124808217395200/411323162312179712/1092284212452790392).
+  - [A few fish, like Berserker Beta, have ratios of 5.0x](https://discord.com/channels/327124808217395200/411323162312179712/1092286587460669490).
