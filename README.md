@@ -6,7 +6,7 @@
 - Big fish never come out in X.0 patches
   - Little Perykos was added in 4.0 when the Isle of Endless Summer was added for the first Moonfire Faire.
 - Big fish added in the same patch have the same minimum gathering and perception requirements.
-  - [Countless counter-examples as recent as Stormblood](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
+  - [Many counter-examples as recent as Stormblood](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
 - All big fish have a hard minimum gathering requirement.
   - Little Perykos does not give an insufficient gathering system message when reeling with 0 gathering, however the slip rate at this gathering is immense.
 - The reeling animation for a fish will always match the bite.
@@ -55,6 +55,12 @@
   - Nepto Dragon can bite from a Merlthor Goby mooch or from Nothern Krill bait.
   - Merciless can bite from an Ice Faerie mooch or from Brute Leech bait.
   </details>
+- Big fish all prefer powerful hookset.
+  - Roughly a third of all big fish are small-jawed.
+- Big fish will always have the same preferred hookset as their non-big counterpart.
+  - [This is false roughly 10% of the time](https://york14.github.io/pj_game_archive/posts/ff14_BF_hookset-analysis/).
+  - Crystal Perch is small-jawed while Glass Perch is large-jawed.
+  - Starscryer is large-jawed while Comet Tail is small-jawed.
 - The preferred hookset of a fish can be determined by if large specimens of the species are longer or shorter than 20 ilms.
   - This metric fails to accurately predict the hookset more than 10% of the time.
   - The Soul of the Martyr is a small-jawed fish while being strictly over 200 ilms long.
@@ -65,3 +71,5 @@
 - There can only be one intuition fish per zone.
   - Imperial Goldfish and Nepto Dragon are both residents of Eastern La Noscea and require Fisher's Intuition to be caught.
   - Every ocean fishing stop has two intuitions, although the game considers spectral currents to take place in a distinct zone.
+- Mooching a fish will always catch a bigger fish.
+  - Diamond Pipira (!!, 43.7 ilm average) mooches into Yellow Pipira (!, 29.3 ilm average).
