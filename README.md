@@ -75,3 +75,6 @@
   - Diamond Pipira (!!, 43.7 ilm average) mooches into Yellow Pipira (!, 29.3 ilm average).
 - Legendary fish are always the 2nd big fish at a fishing spot.
   -  Warden of the Seven Hues and Nepto Dragon have no other green-background fish in their holes.
+- All big fish share an icon with another fish in their hole.
+  - Armorer, Silver Sovereign, Judgeray, Cupfish, Twitchbeard, Spearnose, Sweetnewt, Olgoi-Khorkhoi, Frilled Shark, Aetherlouse, Ndendecki, Basking Shark, and Allagan Bladeshark are all unique in their fishing holes.
+  - All of these examples do have shared icons elsewhere in the game.
