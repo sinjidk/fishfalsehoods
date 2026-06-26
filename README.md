@@ -73,3 +73,5 @@
   - Every ocean fishing stop has two intuitions, although the game considers spectral currents to take place in a distinct zone.
 - Mooching a fish will always catch a bigger fish.
   - Diamond Pipira (!!, 43.7 ilm average) mooches into Yellow Pipira (!, 29.3 ilm average).
+- Legendary fish are always the 2nd big fish at a fishing spot.
+  -  Warden of the Seven Hues and Nepto Dragon have no other green-background fish in their holes.
