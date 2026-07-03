@@ -78,3 +78,5 @@
 - All big fish share an icon with another fish in their hole.
   - Armorer, Silver Sovereign, Judgeray, Cupfish, Twitchbeard, Spearnose, Sweetnewt, Olgoi-Khorkhoi, Frilled Shark, Aetherlouse, Ndendecki, Basking Shark, and Allagan Bladeshark are all unique in their fishing holes.
   - All of these examples do have shared icons elsewhere in the game.
+- Amiss is reset by going for a long walk.
+  - Resetting soft amiss only requires that you cast again at least 5 m away from where you were casting previously.
