@@ -5,6 +5,8 @@
   - Little Perykos is a !! bite.
 - Big fish never come out in X.0 patches
   - Little Perykos was added in 4.0 when the Isle of Endless Summer was added for the first Moonfire Faire.
+- The minimum gathering requirement for big fish will increase every patch.
+  - [7.3, 7.4, and 7.5 big fish all have the same minimum gathering requirement](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
 - Big fish added in the same patch have the same minimum gathering and perception requirements.
   - [Many counter-examples as recent as Stormblood](https://docs.google.com/spreadsheets/d/13aNWwXntb2Y3eOOEdf6G99BZwdBdw3BPMYtx-zmj07M/edit?gid=1944873180#gid=1944873180).
 - All big fish have a hard minimum gathering requirement.
