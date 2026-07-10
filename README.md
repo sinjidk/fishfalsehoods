@@ -83,4 +83,4 @@
 - Amiss is reset by going for a long walk.
   - Resetting soft amiss only requires that you cast again at least 5 m away from where you were casting previously.
 - A yalm is a yalm
-  - "Yalms" as seen in system text (skill tooltips, gathering node distances, etc.) [are actually in meters](https://discord.com/channels/327124808217395200/327124808217395200/1522650394160005205) whereas in-universe yalms [are equivelant to yards](https://discord.com/channels/327124808217395200/327124808217395200/1524857930258714695).
+  - "Yalms" as seen in system text (skill tooltips, gathering node distances, etc.) [are actually in meters](https://discord.com/channels/327124808217395200/327124808217395200/1522650394160005205) whereas in-universe yalms [are equivelant to yards](https://discord.com/channels/327124808217395200/327124808217395200/1524857930258714695) ([also confirmed by a JP community manager](https://forum.square-enix.com/ffxiv/threads/10183-オフィシャルでエオルゼア世界の尺貫法を発表していただきたい。?p=132269&viewfull=1#post132269)).
